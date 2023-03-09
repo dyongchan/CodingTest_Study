@@ -73,9 +73,7 @@
 
   - 참석 :
   - 지각 : 
-  - 문제 코드 :
-  하노이 탑 이동 순서 : https://www.acmicpc.net/problem/11729
-  덩치 : https://www.acmicpc.net/problem/7568
-  체스판 다시 칠하기 : https://www.acmicpc.net/problem/1018
+  - 문제 : 하노이 탑 이동 순서 : https://www.acmicpc.net/problem/11729 <br> 덩치 : https://www.acmicpc.net/problem/7568 <br> 체스판 다시 칠하기 : https://www.acmicpc.net/problem/1018
+  - 문제 코드 : 
   
   <br>
