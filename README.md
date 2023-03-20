@@ -69,11 +69,10 @@
 
 ---
 
-- 1주차()
+- 1주차(2023.03.18)
 
-  - 참석 /  :
-  - 불참 / 문제안품 : 
+  - 참석 : 현영우 , 조용찬 , 김현성 
+  - 불참 / 문제안품 : X
   - 문제 <br> 하노이 탑 이동 순서 : https://www.acmicpc.net/problem/11729 <br> 덩치 : https://www.acmicpc.net/problem/7568 <br> 체스판 다시 칠하기 : https://www.acmicpc.net/problem/1018
-  - 문제 코드 : 
   
   <br>
