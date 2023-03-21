@@ -5,63 +5,65 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class java04_체스판다시칠하기 {
-
+public class java04_체스판다시칠하기_재작성 {
     public static boolean[][] arr;
-    public static int min = 64; // 8 x 8 의 최대의 경우의 수
-    // 최솟값을 구하기 위해 가장 큰 값 설정
+    public static int min = 64; // 최대 64개의 차이를 설정
 
     public static void main(String args[]) throws IOException {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
-        StringTokenizer st;
 
-        st = new StringTokenizer(bf.readLine(), " ");
-        int M = Integer.parseInt(st.nextToken());
+        StringTokenizer st = new StringTokenizer(bf.readLine()," ");
+
         int N = Integer.parseInt(st.nextToken());
+        int M = Integer.parseInt(st.nextToken());
 
-        arr = new boolean[M][N];
+        arr = new boolean[N][M];
 
-        for (int i = 0; i < M; i++) {
+        for(int i=0; i<N; i++) {
             String str = bf.readLine();
 
-            for(int j=0; j < N; j++) {
-                if(str.charAt(j) == 'W') {
-                    arr[i][j] = true;
-                } else {
+            for(int j=0; j<M; j++) {
+                if(str.charAt(j) == 'W') { // W = false, B = true
                     arr[i][j] = false;
+                } else {
+                    arr[i][j] = true;
                 }
             }
         }
 
-        int M_all_row = M - 7; // 경우의 수가 1이다 M-8 할 시 경우의 수가 사라짐
-        int N_all_col = N - 7;
+        int n_w = N - 7; // for(int i=0; i<n_w).. 8 X 8의 조건이므로 -8 까지의 값만 봐도 다 확인 가능하다.
+        int n_b = M - 7;
 
-        for(int i=0; i<M_all_row; i++) {
-            for(int j=0; j<N_all_col; j++) {
-                find(i,j);
+        for(int i=0; i<n_w; i++) {
+            for(int j=0; j<n_b; j++) {
+                check(i,j);
             }
         }
         System.out.print(min);
     }
-    public static void find(int m, int n) {
-        int end_m = m + 8;
-        int end_n = n + 8;
+    public static int check(int n,int m) {
+
+        int max_n = n + 8;
+        int max_m = m + 8;
+
         int cnt = 0;
 
-        boolean TF = arr[m][n]; // 첫 번째 칸의 색상
+        boolean compare = arr[n][m]; // 시작점
 
-        for(int i=m; i<end_m; i++){
-            for(int j=n; j<end_n; j++) {
-                if(arr[i][j] != TF) { // 색이 다르면 cnt++
+        for(int i =n; i<max_n; i++) {
+            for(int j=m; j<max_m; j++) {
+                if (arr[i][j] != compare) {
                     cnt++;
                 }
-                TF = (!TF); // 색상의 변경
+                compare = !compare; // 색을 바꿔가며 확인
             }
-            TF = !TF; // 교차되어야 하므로 색상을 다시 변경
+            compare = !compare; // 초기값과 아래 행의 초기값은 달라야 해서 변경
         }
+
         cnt = Math.min(cnt, 64-cnt);
 
-        min = Math.min(min, cnt);
+        min = Math.min(cnt, min); // 함수를 계속 돌며 가장 작은 값을 덮어씌워줌
 
+        return min;
     }
 }
