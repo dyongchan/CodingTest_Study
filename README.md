@@ -69,11 +69,10 @@
 
 ---
 
-- 1주차()
+- 2주차(2023.03.25)
 
-  - 참석 /  :
-  - 불참 / 문제안품 : 
-  - 문제 <br> 하노이 탑 이동 순서 : https://www.acmicpc.net/problem/11729 <br> 덩치 : https://www.acmicpc.net/problem/7568 <br> 체스판 다시 칠하기 : https://www.acmicpc.net/problem/1018
-  - 문제 코드 : 
+  - 참석 : 
+  - 불참 / 문제안품 :
+  - 문제 <br> 단어 뒤집기 : https://www.acmicpc.net/problem/90939 <br> 괄호 : https://www.acmicpc.net/problem/9012 <br> 스택 수열 : https://www.acmicpc.net/problem/1874
   
   <br>
