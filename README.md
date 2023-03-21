@@ -73,6 +73,6 @@
 
   - 참석 : 
   - 불참 / 문제안품 :
-  - 문제 <br> 단어 뒤집기 : https://www.acmicpc.net/problem/90939 <br> 괄호 : https://www.acmicpc.net/problem/9012 <br> 스택 수 : https://www.acmicpc.net/problem/1874
+  - 문제 <br> 단어 뒤집기 : https://www.acmicpc.net/problem/90939 <br> 괄호 : https://www.acmicpc.net/problem/9012 <br> 스택 수열 : https://www.acmicpc.net/problem/1874
   
   <br>
