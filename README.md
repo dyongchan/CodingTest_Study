@@ -72,13 +72,13 @@
 - 1주차(2023.03.18)
 
   - 참석 : 현영우, 김현성, 조용찬
-  - 불참 / 문제안품 :
+  - 불참 / 문제안품 : X
   - 문제 <br> 덩치 : https://www.acmicpc.net/problem/7568 <br> 체스판 다시 칠하기 : https://www.acmicpc.net/problem/1018 <br> 하노이탑 : https://www.acmicpc.net/problem/11729
 
 - 2주차(2023.03.25)
 
-  - 참석 : 
-  - 불참 / 문제안품 :
+  - 참석 : 현영우, 김현성, 조용찬
+  - 불참 / 문제안품 : X
   - 문제 <br> 단어 뒤집기 : https://www.acmicpc.net/problem/90939 <br> 괄호 : https://www.acmicpc.net/problem/9012 <br> 스택 수열 : https://www.acmicpc.net/problem/1874
   
   <br>
