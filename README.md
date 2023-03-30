@@ -87,4 +87,11 @@
   - 불참 / 문제안품 : 
   - 문제 <br> 에디터 : https://www.acmicpc.net/problem/1406 <br> 큐 : https://www.acmicpc.net/problem/10845 <br> 요세푸스 문제 : https://www.acmicpc.net/problem/1158
   
+- 3주차(2023.04.01)
+
+  - 참석 :
+  - 불참 / 문제안품 :
+  - 문제 <br> 덱 : https://www.acmicpc.net/problem/10866 <br> 단어 뒤집기2 : https://www.acmicpc.net/problem/17413 <br> 쇠막대기 : https://www.acmicpc.net/problem/10799
+
   <br>
+
