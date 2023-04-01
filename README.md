@@ -83,7 +83,7 @@
   
 - 3주차(2023.03.28)
 
-  - 참석 : 현영우, 김현성, 조용
+  - 참석 : 현영우, 김현성, 조용찬
   - 불참 / 문제안품 : 
   - 문제 <br> 에디터 : https://www.acmicpc.net/problem/1406 <br> 큐 : https://www.acmicpc.net/problem/10845 <br> 요세푸스 문제 : https://www.acmicpc.net/problem/1158
   
