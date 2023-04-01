@@ -37,6 +37,8 @@
 > ※ 그냥 안푼 것이 아니라 **난이도가 어려워서 풀지 못한 경우**:cry:
 >
 > 벌금을 내는 것이 아니라 어떤 방식의 접근이 어려웠는지 문제 풀기 시도한 코드를 통해 스터디 때 이야기하는 방식으로 해결하면 좋을 것 같아요! 
+>
+> 만약 문제 이해부터 되지 않는다면 언제든지 연락으로 스터디원들에게 도움을 받아 문제 이해를 하고 다시 코드를 완성하는 방식으로 진행 할 것 !
 
 <br>
 
@@ -89,9 +91,16 @@
   
 - 3주차(2023.04.01)
 
-  - 참석 :
+  - 참석 : 현영우, 김현성, 조용찬
   - 불참 / 문제안품 :
   - 문제 <br> 덱 : https://www.acmicpc.net/problem/10866 <br> 단어 뒤집기2 : https://www.acmicpc.net/problem/17413 <br> 쇠막대기 : https://www.acmicpc.net/problem/10799
+ 
+ 
+- 4주차(2023.04.08)
+
+ - 참석 : 
+ - 불참 / 문제안품 :
+ - 문제 <br> 오큰수 : https://www.acmicpc.net/problem/17298 <br> 오등큰수 : https://www.acmicpc.net/problem/17299 <br> 후위 표기식2 : https://www.acmicpc.net/problem/1935
 
   <br>
 
