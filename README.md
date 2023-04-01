@@ -98,9 +98,9 @@
  
 - 4주차(2023.04.08)
 
- - 참석 : 
- - 불참 / 문제안품 :
- - 문제 <br> 오큰수 : https://www.acmicpc.net/problem/17298 <br> 오등큰수 : https://www.acmicpc.net/problem/17299 <br> 후위 표기식2 : https://www.acmicpc.net/problem/1935
+  - 참석 : 
+  - 불참 / 문제안품 :
+  - 문제 <br> 오큰수 : https://www.acmicpc.net/problem/17298 <br> 오등큰수 : https://www.acmicpc.net/problem/17299 <br> 후위 표기식2 : https://www.acmicpc.net/problem/1935
 
   <br>
 
