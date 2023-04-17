@@ -106,7 +106,7 @@
 
   - 참석 : 
   - 불참 / 문제안품 :
-  - 문제 <br> 203 - 자료구조 1 (참고) : https://code.plus/course/418 <br> 300 - 수학 1 : https://code.plus/course/41
+  - 문제 <br> 203 - 자료구조 1 (참고) : https://code.plus/course/41 <br> 300 - 수학 1 : https://code.plus/course/41
   
   <br>
 
