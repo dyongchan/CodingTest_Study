@@ -98,9 +98,15 @@
  
 - 4주차(2023.04.09)
 
-  - 참석 : 
+  - 참석 : 현영우, 김현성, 조용찬
   - 불참 / 문제안품 :
   - 문제 <br> 오큰수 : https://www.acmicpc.net/problem/17298 <br> 오등큰수 : https://www.acmicpc.net/problem/17299 <br> 후위 표기식2 : https://www.acmicpc.net/problem/1935
+  
+- 5주차(2023.04.20)
 
+  - 참석 : 
+  - 불참 / 문제안품 :
+  - 문제 <br> 203 - 자료구조 1 (참고) : https://code.plus/course/41 <br> 300 - 수학 1 : https://code.plus/course/41
+  
   <br>
 
