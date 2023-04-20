@@ -12,15 +12,18 @@ public class 백준_접미사배열_11656번 {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
 		String str = br.readLine();
-		Stack<String> st = new Stack<>();
+		ArrayList<String> list = new ArrayList<>();
 		
 		for(int i=0; i<str.length(); i++) {
-			st.add(str.substring(i, str.length()));
+			list.add(str.substring(i, str.length()));
 		}
-		
-		for(String k : st) {
+		Collections.sort(list);
+		for(String k : list) {
 			System.out.println(k);
 		}
+//		for(String k : st) {
+//			System.out.println(k);
+//		}// 출력이 가장 아래부터 되네? 
 		
 		
 	}
