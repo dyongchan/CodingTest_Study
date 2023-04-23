@@ -104,9 +104,15 @@
   
 - 5주차(2023.04.20)
 
-  - 참석 : 
+  - 참석 : 현영우, 김현성, 조용찬
   - 불참 / 문제안품 :
   - 문제 <br> 203 - 자료구조 1 (참고) : https://code.plus/course/41 <br> 300 - 수학 1 : https://code.plus/course/41
+  
+- 6주차(2023.05.04)
+
+  - 참석 : 
+  - 불참 / 문제안품 :
+  - 문제 <br> 301 - 수학 1 (연습) : https://code.plus/course/41 <br> 303 - 수학 1 (참고) : https://code.plus/course/41
   
   <br>
 
