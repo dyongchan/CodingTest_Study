@@ -110,9 +110,14 @@
   
 - 6주차(2023.05.04)
 
-  - 참석 : 
+  - 참석 : 현영우, 김현성, 조용찬
   - 불참 / 문제안품 :
   - 문제 <br> 301 - 수학 1 (연습) : https://code.plus/course/41 <br> 303 - 수학 1 (참고) : https://code.plus/course/41
   
+- 7주차(2023.05.12)
+
+  - 참석 : 
+  - 불참 / 문제안품 :
+  - 문제 <br> 골드바흐추측 : https://www.acmicpc.net/problem/6588 <br> -2진수 : https://www.acmicpc.net/problem/2089 <br> Base Conversion : https://www.acmicpc.net/problem/11576
   <br>
 
