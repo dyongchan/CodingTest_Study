@@ -116,13 +116,13 @@
   
 - 7주차(2023.05.13)
 
-  - 참석 : 
+  - 참석 : 현영우, 김현성, 조용찬
   - 불참 / 문제안품 :
   - 문제 <br> 골드바흐추측 : https://www.acmicpc.net/problem/6588 <br> -2진수 : https://www.acmicpc.net/problem/2089 <br> Base Conversion : https://www.acmicpc.net/problem/11576
   <br>
 - 8주차(2023.05.20)
 
-  - 참석 : 
+  - 참석 : 현영우, 김현성, 조용찬
   - 불참 / 문제안품 :
   - 문제 <br> 1로 만들기 : https://www.acmicpc.net/problem/1463 <br> 2xn 타일링 : https://www.acmicpc.net/problem/11726 
   <br>
